@@ -122,7 +122,7 @@ const hcpRouters = [
         element: (
           <>
             <AppWrapper /> {/* ✅ Now inside Router context */}
-            <Login />
+            <NewHcp />
           </>
         ),
       },
